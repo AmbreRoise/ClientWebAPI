@@ -1,4 +1,4 @@
-# TP5 — Interface client pour l'API de gestion de livres
+# Interface client pour l'API de gestion de livres
 
 Application web React/TypeScript développée en TP, constituant le front-end d'une API REST de gestion de livres et d'auteurs réalisée en cours de développement web.
 
@@ -25,7 +25,7 @@ Voir le [le mode d'emploi de l'API](api.md).
 
 ### 4. Lancer le client
 
-> *Revenir à la racine du projet pour la suite.*
+> *Revenir à la racine du dépôt pour la suite.*
 
 ```bash
 cd ClientWeb

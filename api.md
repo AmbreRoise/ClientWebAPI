@@ -9,7 +9,7 @@ cd api/
 Une fois dans le dossier `api` il vous faudra créer votre propre fichier `.env` :  
 
 ```bash
-cp .env.example .env
+cp .env_example .env
 ```
 
 Il vous faudra ensuite installer les dépendances afin de faire fonctionner l'API :  
