@@ -6,6 +6,8 @@ L'API se trouve dans le dossier `api` :
 cd api/
 ```
 
+## Etapes d'installation
+
 Une fois dans le dossier `api` il vous faudra créer votre propre fichier `.env` :  
 
 ```bash
@@ -23,6 +25,8 @@ Une fois ces dépendances installées, vous devez générer le schéma Prisma :
 ```bash
 bunx prisma generate
 ```
+
+## Etape de démarrage
 
 Exécutez ensuite la commande suivante afin de démarrer l'API :  
 
